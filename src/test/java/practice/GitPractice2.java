@@ -9,5 +9,6 @@ public class GitPractice2 {
 	{
 		System.out.println("Good");
 		System.out.println("Pushing through branch");
+		System.out.println("pushing through ATE");
 	}
 }
